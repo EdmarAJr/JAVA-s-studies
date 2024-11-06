@@ -1,3 +1,17 @@
+/******************************************************************************
+
+Average of given 3 numbers
+Max Score: 6 | Difficulty: Not Specified
+Take 3 numbers from the input and print the average of those numbers
+
+Input:
+2
+4
+9
+Output:
+5
+
+*******************************************************************************/
 import java.util.*;
 
 public class Main {
