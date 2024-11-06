@@ -1,3 +1,16 @@
+/******************************************************************************
+
+Find largest number from given 2 numbers
+Max Score: 5 | Difficulty: Not Specified
+Take two numbers as input from the user and print the largest number out of those two numbers.
+
+Input
+234
+220
+Output
+234
+
+*******************************************************************************/
 import java.util.*;
 
 public class Main {
