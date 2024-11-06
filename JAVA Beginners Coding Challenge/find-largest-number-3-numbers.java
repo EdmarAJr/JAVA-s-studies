@@ -1,3 +1,17 @@
+/******************************************************************************
+
+Find largest number from given 3 numbers
+Max Score: 5 | Difficulty: Not Specified
+Take three numbers as input from the user and print the largest number out of those three numbers.
+
+Input
+234
+210
+345
+Output
+345
+
+*******************************************************************************/
 import java.util.*;
 
 public class Main {
