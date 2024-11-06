@@ -1,3 +1,20 @@
+/******************************************************************************
+
+Vowel or a Consonant?
+Max Score: 4 | Difficulty: Not Specified
+Take a character as an input and print whether it is an vowel or a consonant. Sample input and output are shown as below:
+
+Input(1):
+a
+Output(1):
+
+vowel
+Input(2):
+c
+Output(2):
+consonant
+
+*******************************************************************************/
 import java.util.*;
 
 public class Main {
