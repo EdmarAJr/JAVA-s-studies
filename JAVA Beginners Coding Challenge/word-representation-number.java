@@ -1,3 +1,15 @@
+/******************************************************************************
+
+Word representation for a number
+Max Score: 5 | Difficulty: Not Specified
+Take a number between 0 to 9 as input and print the word representation for that number.
+
+Input
+7
+Output
+seven
+
+*******************************************************************************/
 import java.util.*;
 
 public class Main {
