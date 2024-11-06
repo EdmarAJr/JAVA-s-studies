@@ -1,3 +1,14 @@
+/******************************************************************************
+
+Print a multi line 'Hello World'
+Max Score: 2 | Difficulty: Not Specified
+Print the words Hello & World in two separate lines.
+Following should be the output your program produce
+
+Hello
+World
+
+*******************************************************************************/
 import java.util.*;
 
 public class Main {
@@ -6,3 +17,5 @@ public class Main {
       System.out.println("World");
   }
 }
+
+
