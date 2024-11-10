@@ -17,13 +17,13 @@ public class Main {
       Scanner keyboard = new Scanner(System.in);
       int number = keyboard.nextInt();
       keyboard.close();
-      int fatorial=1;
+      int factorial=1;
       
       while(number > 0){
-        fatorial*=number;
+        factorial*=number;
         number--;
       }
 
-      System.out.println(fatorial);
+      System.out.println(factorial);
   }
 }
